@@ -8,9 +8,11 @@
 <img src="images/ieee.png?raw=true"/>
 <p>
   The <a href="https://colab.research.google.com/drive/1xmfJ5EiJVYGQFfAV7twsn1SYHtdL2E4M?usp=sharing">FCN model</a> we are currently testing and training.
+  <br>
+  Studing on an image super-resolution network <a href="https://github.com/z95jiang/Residual-Channel-Attention-Networks.git">RCAN</a> model that requires tenserflow python and numpy.
 </p>
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Image Super-Resolution Using Very Deep Residual Channel Attention Networks](https://github.com/z95jiang/Residual-Channel-Attention-Networks.git/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

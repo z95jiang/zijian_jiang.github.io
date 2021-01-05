@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](https://drive.google.com/drive/folders/16k-wXxINbJ_t-_0PosR05kxs7GnUWFuF?usp=sharing/)
+[Project 3 Title](https://github.com/z95jiang/Residual-Channel-Attention-Networks.git/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

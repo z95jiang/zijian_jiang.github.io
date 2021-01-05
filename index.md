@@ -5,7 +5,7 @@
 ### Working on 
 
 [2021 IEEE GRSS Data Fusion Contest Track MSD](http://www.grss-ieee.org/community/technical-committees/data-fusion/2021-ieee-grss-data-fusion-contest-track-msd/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/ieee.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

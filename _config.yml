@@ -7,6 +7,6 @@ description: >
   <br><br>
   Basketball Player 
   <br><br>
-  <a href="www.linkedin.com/in/zijian-jiang-9704/"> My LinkedIn Profile </a> 
+  <p <a href="www.linkedin.com/in/zijian-jiang-9704/"> My LinkedIn Profile </a> </p>
   
 theme: jekyll-theme-minimal

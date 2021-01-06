@@ -3,7 +3,11 @@ logo: "/images/IMG_4924.JPG?raw=true" #  photo
 description: > 
   Master of Environmental Study, Geography, University of Waterloo
   <br><br>
-  My research interest lays on computer vision, deep learning
+  With the development of artificial intelligence, deep learning methods are widely used in remote sensing community. Using deep learning methods in high spatial resolution (HSR) 
+  images to extract buildings can effectively and efficiently provide buildings footprints which are useful for urbanplanning, high-definition mapping, change detection, and 
+  informed infrastructure management. However, pixel-based building extraction using HSR images brings three challenges: insufficient features, effects of shadows and 
+  occlusions, and massive data. For example, small buildings can be extracted accurately now, while large building cannot because more inter-class variations exist. 
+  Therefore, new AI-based methods should be investigated to effectively and efficiently extract building footprints in HSR images.
   <br><br>
   Working at <a href="https://uwaterloo.ca/geospatial-sensing/"> Geospatial Sensing and Data Intelligence Lab</a>
   <br><br>

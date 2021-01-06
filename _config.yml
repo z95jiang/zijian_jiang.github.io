@@ -9,6 +9,6 @@ description: >
   <br><br>
   Basketball Player 
   <br><br>
-  My CV
+  <p> <a class="btn btn-default" href="images/Zijian_Jiang_Resume.pdf" role="button">My Resume &raquo;</a></p>
   
 theme: jekyll-theme-minimal

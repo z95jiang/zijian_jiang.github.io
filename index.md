@@ -11,13 +11,9 @@
   <br>
   Studing on an image super-resolution network <a href="https://github.com/z95jiang/Residual-Channel-Attention-Networks.git">RCAN</a> model that requires tenserflow python and numpy.
 </p>
----
-[Image Super-Resolution Using Very Deep Residual Channel Attention Networks](https://github.com/z95jiang/Residual-Channel-Attention-Networks.git/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
 <p>
-[Research Interest]
+Research Interest Description
 <br><br>
 With the development of artificial intelligence, deep learning methods are widely used in remote sensing community. Using deep learning methods in high spatial resolution (HSR) images to extract buildings can effectively and efficiently provide buildings footprints which are useful for urbanplanning, high-definition mapping, change detection, and informed infrastructure management. However, pixel-based building extraction using HSR images brings three challenges: insufficient features, effects of shadows and occlusions, and massive data. For example, small buildings can be extracted accurately now, while large building cannot because more inter-class variations exist. Therefore, new AI-based methods should be investigated to effectively and efficiently extract building footprints in HSR images.
 </p>
